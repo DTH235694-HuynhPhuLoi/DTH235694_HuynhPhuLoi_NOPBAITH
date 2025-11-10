@@ -1,0 +1,11 @@
+D:\DTH235677_LT.Net\Buoi_Thuc_Hanh10\BaiTapTH10\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+D:\DTH235677_LT.Net\Buoi_Thuc_Hanh10\BaiTapTH10\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+D:\DTH235677_LT.Net\Buoi_Thuc_Hanh10\BaiTapTH10\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+D:\DTH235677_LT.Net\Buoi_Thuc_Hanh10\BaiTapTH10\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.AssemblyReference.cache
+D:\DTH235677_LT.Net\Buoi_Thuc_Hanh10\BaiTapTH10\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Form1.resources
+D:\DTH235677_LT.Net\Buoi_Thuc_Hanh10\BaiTapTH10\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Properties.Resources.resources
+D:\DTH235677_LT.Net\Buoi_Thuc_Hanh10\BaiTapTH10\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.GenerateResource.cache
+D:\DTH235677_LT.Net\Buoi_Thuc_Hanh10\BaiTapTH10\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+D:\DTH235677_LT.Net\Buoi_Thuc_Hanh10\BaiTapTH10\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+D:\DTH235677_LT.Net\Buoi_Thuc_Hanh10\BaiTapTH10\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb
+D:\DTH235677_LT.Net\Buoi_Thuc_Hanh10\BaiTapTH10\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe.config
